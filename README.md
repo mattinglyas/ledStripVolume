@@ -16,7 +16,7 @@
   <h3 align="center">LED Strip Visualizer</h3>
 
   <p align="center">
-    Arduino project to visualize music using FastLED, WS2812B LEDs and analog circuity
+    Arduino project to visualize music using FastLED, WS2812B LEDs and analog circuity! Video of system in action is at the bottom of this README.
   </p>
 </div>
 
