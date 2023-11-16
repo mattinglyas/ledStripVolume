@@ -62,7 +62,7 @@ Upload the included ledStripVolume.iso sketch to the Arduino-compatible microcon
 - Pin A7 (ADC7) is tied to on-board buttons for changing modes
 - Pin 8 is used to transmit data over FastLED
 
-To install everything, create the circuitry below and connect to the controller. Then, to attach the LED strip, connect the data pin to the controller. Make sure that the +5v and GND connections to the LED strip come from an external power supply and not from the controller. The power requirements for longer strips are too high for many Arduino-compatible controllers (including the one used here).
+To install everything, create the circuitry below and connect to the controller. Then, to attach the LED strip, connect the data pin. Make sure that the +5v and GND connections to the LED strip come from an external power supply. The power requirements for longer strips are too high for many Arduino-compatible controllers (including the one used here).
 
 #### The Peak Detector
 
