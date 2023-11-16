@@ -94,7 +94,6 @@ Once everything is set up, the controller should start and wait for user input f
 
 My personal favorite visualization is the 'cascade' visualization with random color switches. Below is a visualization of 'America Two' by The Midnight with these settings.
 
-<video src="lights_video.mp4">
-
+https://github.com/mattinglyas/ledStripVolume/assets/67919214/de9f1724-0f8d-48f8-8d97-ce672aa5146d
 
 Once settings are input, press Key 1 to start visualization! Settings last until power off.
