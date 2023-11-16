@@ -92,7 +92,7 @@ Once everything is set up, the controller should start and wait for user input f
 * Key 3 (SW4) enables random color switches on large changes in volume
 * Key 4 (SW5) allows for cycling of the default color; hold the button to continue cycling
 
-My personal favorite visualization is the 'cascade' visualization with random color switches. Below is a visualization of 'America Two' by The Midnight with these settings.
+My personal favorite visualization is the 'cascade' visualization with random color switches. Below is a visualization of 'America 2' by The Midnight with these settings.
 
 https://github.com/mattinglyas/ledStripVolume/assets/67919214/de9f1724-0f8d-48f8-8d97-ce672aa5146d
 
