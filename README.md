@@ -60,7 +60,7 @@ Upload the included ledStripVolume.iso sketch to the Arduino-compatible microcon
 - Pin 13 is tied to on-board LED for debugging purposes
 - Pin 12 is held high to power analog circuitry (done to simplify wiring)
 - Pin A7 (ADC7) is tied to on-board buttons for changing modes
-- Pin 8 is used to transmit data over FastLED
+- Pin 8 is used to transmit WS2812B data using FastLED
 
 To install everything, create the circuitry below and connect to the controller. Then, to attach the LED strip, connect the data pin. Make sure that the +5v and GND connections to the LED strip come from an external power supply. The power requirements for longer strips are too high for many Arduino-compatible controllers (including the one used here).
 
